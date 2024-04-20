@@ -43,9 +43,9 @@ int main() {
     cin >> input;
 
     if (acceptsStartingWithAA(input))
-        cout << "Accepted: The string starts with 'aa'." << endl;
+        cout<< "Accepted: The string starts with 'aa'." << endl;
     else
-        cout << "Rejected: The string does not start with 'aa'." << endl;
+        cout<< "Rejected: The string does not start with 'aa'." << endl;
 
     return 0;
 }

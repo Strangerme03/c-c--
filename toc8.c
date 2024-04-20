@@ -1,4 +1,4 @@
-//WAP to implement NFA that accepts the string containing bab as a substring.
+//WAP to implement NFA that accepts the string containing bab as a substring.
 
 #include <stdio.h>
 #include <stdbool.h>
