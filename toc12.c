@@ -30,6 +30,7 @@ int main() {
         }
     }
 
+    
     if (tokenIndex > 0) {
         token[tokenIndex] = '\0';
         printf("Token: %s\n", token);
@@ -37,4 +38,3 @@ int main() {
 
     return 0;
 }
-
